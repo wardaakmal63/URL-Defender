@@ -73,7 +73,7 @@ After the analysis, the tool:
 ---
 
 ## 🛠️ How to Run
-[⚠️ Suspicious Content] [⚠️ Suspicious Content] 📦 Requirements
+📦 Requirements
 Install dependencies using pip:
 
 pip install requests beautifulsoup4 python-whois

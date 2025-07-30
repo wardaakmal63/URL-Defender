@@ -80,9 +80,9 @@ Install dependencies using pip:
 pip install requests beautifulsoup4 python-whois
 ▶️ Run the tool:
 bash
-Copy
-Edit
 python main.py
+
+bash'''
 📁 Output Files
 All reports are saved in the /reports folder:
 

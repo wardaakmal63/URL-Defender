@@ -68,9 +68,7 @@ After the analysis, the tool:
 📊 Result: ⚠️ SUSPICIOUS — Be cautious. Some red flags found.
 💾 Report saved in TXT, JSON, and CSV formats.
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -122,9 +120,7 @@ Let me know if you'd like:
 
 Open to suggestions and collaboration!
 
-yaml
-Copy
-Edit
+
 
 ---
 

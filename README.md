@@ -80,21 +80,25 @@ Install dependencies using pip:
 
 pip install requests beautifulsoup4 python-whois
 
+
 **▶️ Run the tool:**
 
-bash
+
+
 python main.py
 
-bash'''
+
+
+
 **📁 Output Files**
 
 All reports are saved in the /reports folder:
 
-report_YYYY-MM-DD_HH-MM-SS.txt — Human-readable report
+report_YYYY-MM-DD_HH-MM-SS.txt — **Human-readable report**
 
-report_YYYY-MM-DD_HH-MM-SS.json — Structured JSON report
+report_YYYY-MM-DD_HH-MM-SS.json — **Structured JSON report**
 
-summary_reports.csv — Aggregated log of all scans
+summary_reports.csv — **Aggregated log of all scans**
 
 ---
 

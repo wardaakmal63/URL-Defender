@@ -73,10 +73,9 @@ After the analysis, the tool:
 ---
 
 ## 🛠️ How to Run
----
-### 📦 Requirements
+[⚠️ Suspicious Content] [⚠️ Suspicious Content] 📦 Requirements
 Install dependencies using pip:
-```bash
+
 pip install requests beautifulsoup4 python-whois
 ▶️ Run the tool:
 bash
@@ -120,7 +119,6 @@ This tool uses heuristic checks and is not meant to replace professional phishin
 
 Open to suggestions and collaboration!
 ---
-
 
 
 

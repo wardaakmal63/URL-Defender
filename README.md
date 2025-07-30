@@ -73,16 +73,21 @@ After the analysis, the tool:
 ---
 
 ## 🛠️ How to Run
-📦 Requirements
+
+**📦 Requirements**
+
 Install dependencies using pip:
 
 pip install requests beautifulsoup4 python-whois
-▶️ Run the tool:
+
+**▶️ Run the tool:**
+
 bash
 python main.py
 
 bash'''
-📁 Output Files
+**📁 Output Files**
+
 All reports are saved in the /reports folder:
 
 report_YYYY-MM-DD_HH-MM-SS.txt — Human-readable report
@@ -95,7 +100,8 @@ summary_reports.csv — Aggregated log of all scans
 
 
 ---
-🎯 Use Cases
+**🎯 Use Cases**
+
 Security awareness training
 
 InfoSec course projects
@@ -108,13 +114,15 @@ Building baseline knowledge of phishing indicators
 
 ---
 
-📌 Credits
+**📌 Credits**
+
 This project was created for academic purposes as part of an Information Security course.
 
 ---
 
 ---
-⚠️ Disclaimer
+**⚠️ Disclaimer**
+
 This tool uses heuristic checks and is not meant to replace professional phishing detection or threat intelligence platforms. False positives/negatives may occur.
 
 Open to suggestions and collaboration!

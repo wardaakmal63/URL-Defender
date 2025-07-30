@@ -73,7 +73,7 @@ After the analysis, the tool:
 ---
 
 ## 🛠️ How to Run
-
+---
 ### 📦 Requirements
 Install dependencies using pip:
 ```bash
@@ -92,6 +92,10 @@ report_YYYY-MM-DD_HH-MM-SS.json — Structured JSON report
 
 summary_reports.csv — Aggregated log of all scans
 
+---
+
+
+---
 🎯 Use Cases
 Security awareness training
 
@@ -101,26 +105,22 @@ URL analysis for phishing symptoms
 
 Building baseline knowledge of phishing indicators
 
+---
+
+---
+
 📌 Credits
 This project was created for academic purposes as part of an Information Security course.
 
+---
+
+---
 ⚠️ Disclaimer
 This tool uses heuristic checks and is not meant to replace professional phishing detection or threat intelligence platforms. False positives/negatives may occur.
 
-💡 Want to Improve It?
-Let me know if you'd like:
-
-🎖️ Badges (Python version, MIT license, etc.)
-
-📦 .gitignore file
-
-🖼️ GUI interface version
-
-🔄 Install/setup script
-
 Open to suggestions and collaboration!
-
-
-
 ---
+
+
+
 
